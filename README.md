@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Laravel Vue and Nuxt**
 
-- 📫 How to reach me **@rezazkr**
+- 📫 How to reach me in any social **@rezazkr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
